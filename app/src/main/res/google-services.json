@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935456856295",
+    "project_id": "firebase-lafs"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935456856295:android:280350fa6a8527be",
+        "android_client_info": {
+          "package_name": "com.example.allyan.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935456856295-bi4382gr8c8fes4cf6c0f7jb70kc1c1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9y7tKtsI1DMAq6BQ_2r2GJtznkOaQIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
